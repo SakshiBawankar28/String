@@ -4,7 +4,7 @@ package com.programs;
 
 import java.util.Scanner;
 
-public class ConvertToLowercase 
+public class ConvertToLowerCase 
 {	
 	public static void main(String[] args) 
 	{
