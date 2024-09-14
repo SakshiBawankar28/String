@@ -11,10 +11,10 @@ public class ConvertToLowerCase
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the string : ");
 		String s = sc.next();
+		
 		convertToLowercase(s);
 		
 	}
-	
 	
 	public static void convertToLowercase(String s)
 	{
